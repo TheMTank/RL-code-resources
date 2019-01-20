@@ -1,12 +1,12 @@
-# rl-code-envs-frameworks
+# rl-code
 
 A collection of Reinforcement Learning code resources, frameworks and environments. 
-Every link below is a GitHub link so this is mainly focused on resources that are to do with code.
+Every link below is a GitHub link so this is mainly focused on resources that are directly related to code.
 For other types of resources check out [awesome-rl](https://github.com/aikorea/awesome-rl), 
 [spinning up](https://spinningup.openai.com/en/latest/) and our 4 hour Reinforcement Learning course we created: 
 [An Introduction to Deep Reinforcement Learning](https://docs.google.com/presentation/d/1d3bxKoUn464ae_WQ2FFiFjmJPlWJI1GOydaDUAqVpJk/)
 
-Feel free to raise issues and pull requests for missing resources you think we should add. 
+Feel free to raise issues, pull requests or email us at info@themtank.com for missing resources you think we should add. 
 
 # RL Frameworks and design patterns
 There really aren't many truly popular RL "frameworks" (i.e. the equivalent of DL frameworks 
@@ -69,6 +69,10 @@ algorithm implementations. Also, the distinction between framework and "collecti
 
 # RL Environments
 
+- [OpenAI Gym](https://github.com/openai/gym). Contains Algorithmic, Atari, box2d, classic control, 
+MuJoCo, Robotics, Toy text and many more environments.
+- [OpenAI Universe](https://github.com/openai/universe) archived and [muniverse](https://github.com/unixpickle/muniverse)
+- [OpenAI Retro](https://github.com/openai/retro)
 - [ai2thor](https://github.com/allenai/ai2thor)
 - [CHALET](https://github.com/clic-lab/chalet)
 - [House3D](https://github.com/facebookresearch/house3d)
@@ -83,10 +87,6 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [AirSim](https://github.com/Microsoft/AirSim)
 - [CARLA](https://github.com/carla-simulator/carla)
 - [UnrealROX](https://github.com/3dperceptionlab/unrealrox)
-- [OpenAI Universe](https://github.com/openai/universe) archived and [muniverse](https://github.com/unixpickle/muniverse)
-- [OpenAI Gym](https://github.com/openai/gym). Contains Algorithmic, Atari, box2d, classic control, 
-MuJoCo, Robotics, Toy text and many more environments.
-- [OpenAI Retro](https://github.com/openai/retro)
 - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
 - [escape_room](https://github.com/LARG/escape_room)
 - [marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
@@ -110,3 +110,4 @@ MuJoCo, Robotics, Toy text and many more environments.
 - add image comparing 3D house environments
 - add more images in general
 - split environments into different types e.g. 3d houses, 2d, control, etc
+- Other self-driving envs
