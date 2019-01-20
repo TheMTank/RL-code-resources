@@ -9,10 +9,10 @@ For other types of resources check out [awesome-rl](https://github.com/aikorea/a
 Feel free to raise issues and pull requests for missing resources you think we should add. 
 
 # RL Frameworks and design patterns
-There really aren't many true RL frameworks (the equivalent of DL frameworks but for RL) or even 
-formal design patterns/workflow that are common across all RL algorithm implementations. 
-Also, the distinction between framework and "collection of algorithms" is hard to specify sometimes. 
-Therefore, the below list is mix on this continuum as well as some RL courses. 
+There really aren't many truly popular RL "frameworks" (i.e. the equivalent of DL frameworks 
+but for RL) and there isn't even agreed upon formal design patterns/workflows that are common across all RL 
+algorithm implementations. Also, the distinction between framework and "collection of algorithms" is
+ hard to specify sometimes. Therefore, the below list is mix within this continuum as well as some RL courses. 
 
 #### PyTorch
 
@@ -21,9 +21,11 @@ Therefore, the below list is mix on this continuum as well as some RL courses.
 - [torch-rl](https://github.com/lcswillems/torch-rl)
 - [rlkit](https://github.com/vitchyr/rlkit)
 - [SLM-Lab](https://github.com/kengz/SLM-Lab)
+- [lagom](https://github.com/zuoxingdong/lagom)
 - [ikostrikov's a3c, a2c, ppo, acktr, trpo](https://github.com/ikostrikov)
 - [higgsfield's RL Adventure 1 and 2: DQN and Policy Gradient variations](https://github.com/higgsfield)
 - [Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+- [reinforcement-learning-algorithms](https://github.com/TianhongDai/reinforcement-learning-algorithms)
 - [vel](https://github.com/MillionIntegrals/vel)
 - [practical_RL](https://github.com/yandexdataschool/Practical_RL) but other frameworks too (TF, theano, lasagne)
 - [Udacity deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) 
@@ -33,6 +35,7 @@ Therefore, the below list is mix on this continuum as well as some RL courses.
 - [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [ptan](https://github.com/Shmuma/ptan)
 - [humblerl](https://github.com/piojanu/humblerl)
+- [Horizon](https://github.com/facebookresearch/Horizon)
 
 #### TensorFlow
 
@@ -50,6 +53,7 @@ Therefore, the below list is mix on this continuum as well as some RL courses.
 - [reinforcement_learning](https://github.com/yrlu/reinforcement_learning)
 - [Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 - [basic_reinforcement_learning](https://github.com/vmayoral/basic_reinforcement_learning)
+- [reaver](https://github.com/inoryy/reaver)
 
 #### Other
 
@@ -59,7 +63,8 @@ Therefore, the below list is mix on this continuum as well as some RL courses.
 - [keras-rl](https://github.com/keras-rl/keras-rl)
 - [kerlym](https://github.com/osh/kerlym)
 - [reinforcement-learing implementations](https://github.com/rlcode/reinforcement-learning)
-- [https://github.com/rlcode/reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr)
+- [reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr)
+- [PARL](https://github.com/PaddlePaddle/PARL)
 
 # RL Environments
 
@@ -68,14 +73,32 @@ Therefore, the below list is mix on this continuum as well as some RL courses.
 - [House3D](https://github.com/facebookresearch/house3d)
 - [MINOS](https://github.com/minosworld/minos)
 - [VizDoom](https://github.com/mwydmuch/ViZDoom)
+- [DeepMind Lab](https://github.com/deepmind/lab)
 - [HoME](https://github.com/HoME-Platform/home-platform)
 - [Malmo](https://github.com/Microsoft/malmo)
+- [pysc2](https://github.com/deepmind/pysc2)
+- [TorchCraft](https://github.com/TorchCraft/TorchCraft) and [gym-starcraft](https://github.com/alibaba/gym-starcraft)
 - [AirSim](https://github.com/Microsoft/AirSim)
 - [CARLA](https://github.com/carla-simulator/carla)
 - [OpenAI Universe](https://github.com/openai/universe) archived
 - [OpenAI Gym](https://github.com/openai/gym). Contains Algorithmic, Atari, box2d, classic control, 
 MuJoCo, Robotics, Toy text and many more environments.
 - [OpenAI Retro](https://github.com/openai/retro)
-- [MAgent](https://github.com/geek-ai/MAgent)
+- [holodeck](https://github.com/BYU-PCCL/holodeck)
+- [GibsonEnv](https://github.com/StanfordVL/GibsonEnv)
+- [pybullet-gym](https://github.com/benelot/pybullet-gym)
+- [dm_control](https://github.com/deepmind/dm_control)
+- [roboschool](https://github.com/openai/roboschool)
+- [gym-gazebo](https://github.com/erlerobot/gym-gazebo)
 - [osim-rl](NIPS2018:AI for prosthetics)
+- [Pommerman playground](https://github.com/MultiAgentLearning/playground)
+- [MAgent](https://github.com/geek-ai/MAgent)
+- [ELF](https://github.com/facebookresearch/ELF/projects)
+- [pycolab](https://github.com/deepmind/pycolab)
+- [MazeBase](https://github.com/facebook/MazeBase)
+- [gym-maze](https://github.com/MattChanTK/gym-maze)
 - [GridUniverse](https://github.com/TheMTank/GridUniverse)
+
+
+[comment]: <> (add image comparing 3D house environments)
+[comment]: <> (split environments into different types e.g. 3d houses, 2d, control, etc)
