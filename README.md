@@ -1,4 +1,4 @@
-# rl-code
+# RL-code-resources
 
 A collection of Reinforcement Learning code resources, frameworks and environments. 
 Every link below is a GitHub link so this is mainly focused on resources that are directly related to code.
@@ -69,10 +69,14 @@ algorithm implementations. Also, the distinction between framework and "collecti
 
 # RL Environments
 
+#### General collections
 - [OpenAI Gym](https://github.com/openai/gym). Contains Algorithmic, Atari, box2d, classic control, 
 MuJoCo, Robotics, Toy text and many more environments.
 - [OpenAI Universe](https://github.com/openai/universe) archived and [muniverse](https://github.com/unixpickle/muniverse)
 - [OpenAI Retro](https://github.com/openai/retro)
+- [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
+
+#### 3D Environments
 - [ai2thor](https://github.com/allenai/ai2thor)
 - [CHALET](https://github.com/clic-lab/chalet)
 - [House3D](https://github.com/facebookresearch/house3d)
@@ -81,27 +85,34 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [DeepMind Lab](https://github.com/deepmind/lab)
 - [HoME](https://github.com/HoME-Platform/home-platform)
 - [Malmo](https://github.com/Microsoft/malmo) and [marLo](https://github.com/crowdAI/marLo)
-- [pysc2](https://github.com/deepmind/pysc2)
-- [TorchCraft](https://github.com/TorchCraft/TorchCraft), [gym-starcraft](https://github.com/alibaba/gym-starcraft) and [TorchCraftAI](https://github.com/TorchCraft/TorchCraftAI)
-- [deep-rts](https://github.com/cair/deep-rts)
 - [AirSim](https://github.com/Microsoft/AirSim)
 - [CARLA](https://github.com/carla-simulator/carla)
 - [UnrealROX](https://github.com/3dperceptionlab/unrealrox)
-- [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
-- [escape_room](https://github.com/LARG/escape_room)
+- [holodeck](https://github.com/BYU-PCCL/holodeck)
 - [marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
 - [ToriLLe](https://github.com/Miffyli/ToriLLE)
-- [holodeck](https://github.com/BYU-PCCL/holodeck)
 - [GibsonEnv](https://github.com/StanfordVL/GibsonEnv)
+
+#### Real Time Strategy
+- [pysc2](https://github.com/deepmind/pysc2)
+- [TorchCraft](https://github.com/TorchCraft/TorchCraft), [gym-starcraft](https://github.com/alibaba/gym-starcraft) and [TorchCraftAI](https://github.com/TorchCraft/TorchCraftAI)
+- [deep-rts](https://github.com/cair/deep-rts)
+
+#### Control
 - [pybullet-gym](https://github.com/benelot/pybullet-gym)
 - [dm_control](https://github.com/deepmind/dm_control)
 - [roboschool](https://github.com/openai/roboschool)
 - [gym-gazebo](https://github.com/erlerobot/gym-gazebo)
 - [osim-rl NIPS2018: AI for prosthetics](https://github.com/stanfordnmbl/osim-rl)
+
+#### Multi-agent
 - [Pommerman playground](https://github.com/MultiAgentLearning/playground)
 - [MAgent](https://github.com/geek-ai/MAgent)
 - [ELF](https://github.com/facebookresearch/ELF/projects)
+
+#### GridWorlds
 - [pycolab](https://github.com/deepmind/pycolab)
+- [escape_room](https://github.com/LARG/escape_room)
 - [MazeBase](https://github.com/facebook/MazeBase)
 - [gym-maze](https://github.com/MattChanTK/gym-maze)
 - [GridUniverse](https://github.com/TheMTank/GridUniverse)
@@ -109,5 +120,4 @@ MuJoCo, Robotics, Toy text and many more environments.
 ##### TODO 
 - add image comparing 3D house environments
 - add more images in general
-- split environments into different types e.g. 3d houses, 2d, control, etc
 - Other self-driving envs
