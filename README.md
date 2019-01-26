@@ -12,7 +12,7 @@ Feel free to raise issues, pull requests or email us at info@themtank.com for mi
 There really aren't many truly popular RL "frameworks" (i.e. the equivalent of DL frameworks 
 but for RL) and there isn't even agreed upon formal design patterns/workflows that are common across all RL 
 algorithm implementations. Also, the distinction between framework and "collection of algorithms" is
- hard to specify sometimes. Therefore, the below list is mix within this continuum as well as some RL courses. 
+ hard to specify sometimes. Therefore, the below list is a mix within this continuum as well as some RL courses. 
 
 #### PyTorch
 
@@ -34,6 +34,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
 - [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [ptan](https://github.com/Shmuma/ptan)
+- [spinning-up-basic](https://github.com/Kaixhin/spinning-up-basic) PyTorch version of OpenAI's spinning up
 - [humblerl](https://github.com/piojanu/humblerl)
 - [Horizon](https://github.com/facebookresearch/Horizon)
 
@@ -72,7 +73,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 #### General collections
 - [OpenAI Gym](https://github.com/openai/gym). Contains Algorithmic, Atari, box2d, classic control, 
 MuJoCo, Robotics, Toy text and many more environments.
-- [OpenAI Universe](https://github.com/openai/universe) archived and [muniverse](https://github.com/unixpickle/muniverse)
+- [OpenAI Universe](https://github.com/openai/universe) which was archived and [muniverse](https://github.com/unixpickle/muniverse)
 - [OpenAI Retro](https://github.com/openai/retro)
 - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
 
@@ -87,16 +88,19 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [Malmo](https://github.com/Microsoft/malmo) and [marLo](https://github.com/crowdAI/marLo)
 - [AirSim](https://github.com/Microsoft/AirSim)
 - [CARLA](https://github.com/carla-simulator/carla)
-- [UnrealROX](https://github.com/3dperceptionlab/unrealrox)
+- [UnrealROX](https://github.com/3dperceptionlab/unrealrox) and [The RobotriX](https://github.com/3dperceptionlab/therobotrix)
 - [holodeck](https://github.com/BYU-PCCL/holodeck)
 - [marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
 - [ToriLLe](https://github.com/Miffyli/ToriLLE)
 - [GibsonEnv](https://github.com/StanfordVL/GibsonEnv)
 
-#### Real Time Strategy
+![http://ai2thor.allenai.org/](assets/ai2thor-comparison-to-other-frameworks.jpeg)
+
+#### Real Time Strategy (RTS)
 - [pysc2](https://github.com/deepmind/pysc2)
 - [TorchCraft](https://github.com/TorchCraft/TorchCraft), [gym-starcraft](https://github.com/alibaba/gym-starcraft) and [TorchCraftAI](https://github.com/TorchCraft/TorchCraftAI)
 - [deep-rts](https://github.com/cair/deep-rts)
+- [ELF](https://github.com/facebookresearch/ELF)
 
 #### Control
 - [pybullet-gym](https://github.com/benelot/pybullet-gym)
@@ -108,16 +112,15 @@ MuJoCo, Robotics, Toy text and many more environments.
 #### Multi-agent
 - [Pommerman playground](https://github.com/MultiAgentLearning/playground)
 - [MAgent](https://github.com/geek-ai/MAgent)
-- [ELF](https://github.com/facebookresearch/ELF/projects)
 
 #### GridWorlds
 - [pycolab](https://github.com/deepmind/pycolab)
 - [escape_room](https://github.com/LARG/escape_room)
 - [MazeBase](https://github.com/facebook/MazeBase)
 - [gym-maze](https://github.com/MattChanTK/gym-maze)
-- [GridUniverse](https://github.com/TheMTank/GridUniverse)
+- [GridUniverse](https://github.com/TheMTank/GridUniverse) Created by us
+- [gym-minigrid](https://github.com/maximecb/gym-minigrid/)
 
-##### TODO 
-- add image comparing 3D house environments
+# TODO 
 - add more images in general
 - Other self-driving envs
