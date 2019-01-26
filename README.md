@@ -93,8 +93,10 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
 - [ToriLLe](https://github.com/Miffyli/ToriLLE)
 - [GibsonEnv](https://github.com/StanfordVL/GibsonEnv)
+- [DeepGTAV](https://github.com/aitorzip/DeepGTAV)
+- [deeprive](https://github.com/deepdrive/deepdrive)
 
-![http://ai2thor.allenai.org/](assets/ai2thor-comparison-to-other-frameworks.jpeg)
+![https://github.com/allenai/ai2thor](assets/ai2thor-comparison-to-other-frameworks.jpeg)
 
 #### Real Time Strategy (RTS)
 - [pysc2](https://github.com/deepmind/pysc2)
@@ -123,4 +125,3 @@ MuJoCo, Robotics, Toy text and many more environments.
 
 # TODO 
 - add more images in general
-- Other self-driving envs
