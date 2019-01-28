@@ -32,9 +32,9 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [simoninithomas / Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)
 - [Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
-- [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [ptan](https://github.com/Shmuma/ptan)
 - [spinning-up-basic](https://github.com/Kaixhin/spinning-up-basic) PyTorch version of OpenAI's spinning up
+- [firedup spinning up PyTorch](https://github.com/kashif/firedup)
 - [humblerl](https://github.com/piojanu/humblerl)
 - [Horizon](https://github.com/facebookresearch/Horizon)
 
@@ -63,6 +63,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [rlpy](https://github.com/rlpy/rlpy)
 - [keras-rl](https://github.com/keras-rl/keras-rl)
 - [kerlym](https://github.com/osh/kerlym)
+- [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [reinforcement-learing implementations](https://github.com/rlcode/reinforcement-learning)
 - [reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr)
 - [PARL](https://github.com/PaddlePaddle/PARL)
@@ -93,8 +94,9 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
 - [ToriLLe](https://github.com/Miffyli/ToriLLE)
 - [GibsonEnv](https://github.com/StanfordVL/GibsonEnv)
+- [obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env)
 - [DeepGTAV](https://github.com/aitorzip/DeepGTAV)
-- [deeprive](https://github.com/deepdrive/deepdrive)
+- [deepdrive](https://github.com/deepdrive/deepdrive)
 
 ![https://github.com/allenai/ai2thor](assets/ai2thor-comparison-to-other-frameworks.jpeg)
 
@@ -103,6 +105,8 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [TorchCraft](https://github.com/TorchCraft/TorchCraft), [gym-starcraft](https://github.com/alibaba/gym-starcraft) and [TorchCraftAI](https://github.com/TorchCraft/TorchCraftAI)
 - [deep-rts](https://github.com/cair/deep-rts)
 - [ELF](https://github.com/facebookresearch/ELF)
+
+![https://github.com/deepmind/pysc2](assets/pysc2-mini-games.gif)
 
 #### Control
 - [pybullet-gym](https://github.com/benelot/pybullet-gym)
