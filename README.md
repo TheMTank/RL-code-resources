@@ -54,6 +54,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [reinforcement_learning](https://github.com/yrlu/reinforcement_learning)
 - [Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 - [basic_reinforcement_learning](https://github.com/vmayoral/basic_reinforcement_learning)
+- [mushroom](https://github.com/AIRLab-POLIMI/mushroom)
 - [reaver](https://github.com/inoryy/reaver)
 
 #### Other
@@ -97,6 +98,8 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env)
 - [DeepGTAV](https://github.com/aitorzip/DeepGTAV)
 - [deepdrive](https://github.com/deepdrive/deepdrive)
+- [gym-miniworld](https://github.com/maximecb/gym-miniworld)
+- [gym-duckietown](https://github.com/duckietown/gym-duckietown)
 
 ![https://github.com/allenai/ai2thor](assets/ai2thor-comparison-to-other-frameworks.jpeg)
 
@@ -127,5 +130,6 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [GridUniverse](https://github.com/TheMTank/GridUniverse) Created by us
 - [gym-minigrid](https://github.com/maximecb/gym-minigrid/)
 
-# TODO 
-- add more images in general
+#### Other
+- [hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)
+- [XWorld](https://github.com/PaddlePaddle/XWorld)
