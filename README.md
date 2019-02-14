@@ -53,6 +53,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [DeepRL-Agents](https://github.com/awjuliani/DeepRL-Agents)
 - [reinforcement_learning](https://github.com/yrlu/reinforcement_learning)
 - [Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
+- [deep-reinforcement-learning-gym](https://github.com/lilianweng/deep-reinforcement-learning-gym)
 - [basic_reinforcement_learning](https://github.com/vmayoral/basic_reinforcement_learning)
 - [mushroom](https://github.com/AIRLab-POLIMI/mushroom)
 - [reaver](https://github.com/inoryy/reaver)
@@ -90,7 +91,6 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [Malmo](https://github.com/Microsoft/malmo) and [marLo](https://github.com/crowdAI/marLo)
 - [AirSim](https://github.com/Microsoft/AirSim)
 - [CARLA](https://github.com/carla-simulator/carla)
-- [UnrealROX](https://github.com/3dperceptionlab/unrealrox) and [The RobotriX](https://github.com/3dperceptionlab/therobotrix)
 - [holodeck](https://github.com/BYU-PCCL/holodeck)
 - [marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
 - [ToriLLe](https://github.com/Miffyli/ToriLLE)
@@ -98,6 +98,10 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env)
 - [DeepGTAV](https://github.com/aitorzip/DeepGTAV)
 - [deepdrive](https://github.com/deepdrive/deepdrive)
+- [sdsandbox](https://github.com/tawnkramer/sdsandbox/tree/donkey)
+- [gym-unrealcv](https://github.com/zfw1226/gym-unrealcv)
+- [UnrealROX](https://github.com/3dperceptionlab/unrealrox) and [The RobotriX](https://github.com/3dperceptionlab/therobotrix)
+- [UETorch](https://github.com/facebook/UETorch)
 - [gym-miniworld](https://github.com/maximecb/gym-miniworld)
 - [gym-duckietown](https://github.com/duckietown/gym-duckietown)
 
@@ -132,4 +136,4 @@ MuJoCo, Robotics, Toy text and many more environments.
 
 #### Other
 - [hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)
-- [XWorld](https://github.com/PaddlePaddle/XWorld)
+- [XWorld](https://github.com/PaddlePaddle/XWorld) 2D+3D
