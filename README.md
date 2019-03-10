@@ -18,6 +18,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 
 - [pytorch-rl](https://github.com/navneet-nmk/pytorch-rl)
 - [PyTorch-RL](https://github.com/Khrylx/PyTorch-RL)
+- [adeptRL](https://github.com/heronsystems/adeptRL)
 - [torch-rl](https://github.com/lcswillems/torch-rl)
 - [rlkit](https://github.com/vitchyr/rlkit)
 - [SLM-Lab](https://github.com/kengz/SLM-Lab)
@@ -33,6 +34,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
 - [ptan](https://github.com/Shmuma/ptan)
+- [Catalyst.RL](https://github.com/catalyst-team/catalyst)
 - [spinning-up-basic](https://github.com/Kaixhin/spinning-up-basic) PyTorch version of OpenAI's spinning up
 - [firedup spinning up PyTorch](https://github.com/kashif/firedup)
 - [humblerl](https://github.com/piojanu/humblerl)
@@ -99,6 +101,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env)
 - [DeepGTAV](https://github.com/aitorzip/DeepGTAV)
 - [deepdrive](https://github.com/deepdrive/deepdrive)
+- [neural-mmo](https://github.com/openai/neural-mmo)
 - [habitat-sim](https://github.com/facebookresearch/habitat-sim) and [habitat-api](https://github.com/facebookresearch/habitat-api)
 - [gym-miniworld](https://github.com/maximecb/gym-miniworld)
 - [gym-duckietown](https://github.com/duckietown/gym-duckietown)
@@ -129,6 +132,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [escape_room](https://github.com/LARG/escape_room)
 - [MazeBase](https://github.com/facebook/MazeBase)
 - [gym-maze](https://github.com/MattChanTK/gym-maze)
+- [gym-sokoban](https://github.com/mpSchrader/gym-sokoban)
 - [GridUniverse](https://github.com/TheMTank/GridUniverse) Created by us
 - [gym-minigrid](https://github.com/maximecb/gym-minigrid/)
 
