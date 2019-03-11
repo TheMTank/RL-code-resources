@@ -67,6 +67,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [rlpy](https://github.com/rlpy/rlpy)
 - [keras-rl](https://github.com/keras-rl/keras-rl)
 - [kerlym](https://github.com/osh/kerlym)
+- [rl-agents](https://github.com/eleurent/rl-agents)
 - [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [reinforcement-learing implementations](https://github.com/rlcode/reinforcement-learning)
 - [reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr)
