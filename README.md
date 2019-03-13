@@ -34,6 +34,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
 - [ptan](https://github.com/Shmuma/ptan)
+- [pytorch-madrl](https://github.com/ChenglongChen/pytorch-madrl)
 - [Catalyst.RL](https://github.com/catalyst-team/catalyst)
 - [spinning-up-basic](https://github.com/Kaixhin/spinning-up-basic) PyTorch version of OpenAI's spinning up
 - [firedup spinning up PyTorch](https://github.com/kashif/firedup)
