@@ -35,6 +35,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
 - [ptan](https://github.com/Shmuma/ptan)
 - [pytorch-madrl](https://github.com/ChenglongChen/pytorch-madrl)
+- [Deep_RL_with_pytorch](https://github.com/sungyubkim/Deep_RL_with_pytorch)
 - [Catalyst.RL](https://github.com/catalyst-team/catalyst)
 - [spinning-up-basic](https://github.com/Kaixhin/spinning-up-basic) PyTorch version of OpenAI's spinning up
 - [firedup spinning up PyTorch](https://github.com/kashif/firedup)
@@ -82,6 +83,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 MuJoCo, Robotics, Toy text and many more environments.
 - [OpenAI Universe](https://github.com/openai/universe) which was archived and [muniverse](https://github.com/unixpickle/muniverse)
 - [OpenAI Retro](https://github.com/openai/retro)
+- [MinAtar](https://github.com/kenjyoung/MinAtar)
 - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
 
 #### 3D Environments
@@ -122,6 +124,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [pybullet-gym](https://github.com/benelot/pybullet-gym)
 - [dm_control](https://github.com/deepmind/dm_control)
 - [roboschool](https://github.com/openai/roboschool)
+- [robosuite](https://github.com/StanfordVL/robosuite)
 - [gym-gazebo](https://github.com/erlerobot/gym-gazebo)
 - [osim-rl NIPS2018: AI for prosthetics](https://github.com/stanfordnmbl/osim-rl)
 
