@@ -23,6 +23,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [rlkit](https://github.com/vitchyr/rlkit)
 - [SLM-Lab](https://github.com/kengz/SLM-Lab)
 - [lagom](https://github.com/zuoxingdong/lagom)
+- [DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
 - [ikostrikov's a3c, a2c, ppo, acktr, trpo](https://github.com/ikostrikov)
 - [higgsfield's RL Adventure 1 and 2: DQN and Policy Gradient variations](https://github.com/higgsfield)
 - [Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
@@ -46,6 +47,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 
 - [OpenAI baselines](https://github.com/openai/baselines)
 - [stable-baselines](https://github.com/hill-a/stable-baselines)
+- [coach](https://github.com/NervanaSystems/coach)
 - [yarll](https://github.com/arnomoonens/yarll)
 - [dopamine](https://github.com/google/dopamine)
 - [tensorforce](https://github.com/tensorforce/tensorforce)
