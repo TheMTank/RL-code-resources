@@ -89,6 +89,8 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
 
 #### 3D Environments
+![](assets/ULTIMATE-COLLAGE-GIF-3D-ENVS.gif)
+
 - [CHALET](https://github.com/clic-lab/chalet)
 - [House3D](https://github.com/facebookresearch/house3d)
 - [ai2thor](https://github.com/allenai/ai2thor)
