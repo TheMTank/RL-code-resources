@@ -130,6 +130,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [roboschool](https://github.com/openai/roboschool)
 - [robosuite](https://github.com/StanfordVL/robosuite)
 - [gym-gazebo](https://github.com/erlerobot/gym-gazebo)
+- [gym-gazebo2](https://github.com/AcutronicRobotics/gym-gazebo2/tree/9f523d9d275ce7c3d002e3978eeb1d64d81cfbce)
 - [osim-rl NIPS2018: AI for prosthetics](https://github.com/stanfordnmbl/osim-rl)
 
 #### Multi-agent
