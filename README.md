@@ -1,7 +1,7 @@
 # RL-code-resources
 
 A collection of Reinforcement Learning code resources, frameworks and environments. 
-Every link below is a GitHub link so this is mainly focused on resources that are directly related to code.
+Every link below is a GitHub link so this is mainly focused on resources that are directly related to open-source code.
 For other types of resources check out [awesome-rl](https://github.com/aikorea/awesome-rl), 
 [spinning up](https://spinningup.openai.com/en/latest/) and our 4 hour Reinforcement Learning course we created: 
 [An Introduction to Deep Reinforcement Learning](https://docs.google.com/presentation/d/1d3bxKoUn464ae_WQ2FFiFjmJPlWJI1GOydaDUAqVpJk/)
@@ -85,6 +85,8 @@ algorithm implementations. Also, the distinction between framework and "collecti
 MuJoCo, Robotics, Toy text and many more environments.
 - [OpenAI Universe](https://github.com/openai/universe) which was archived and [muniverse](https://github.com/unixpickle/muniverse)
 - [OpenAI Retro](https://github.com/openai/retro)
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents)
+- [PyGame-Learning-Environment](https://github.com/ntasfi/PyGame-Learning-Environment)
 - [MinAtar](https://github.com/kenjyoung/MinAtar)
 - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
 
@@ -124,14 +126,15 @@ MuJoCo, Robotics, Toy text and many more environments.
 
 ![https://github.com/deepmind/pysc2](assets/pysc2-mini-games.gif)
 
-#### Control
+#### Control and robotics
 - [pybullet-gym](https://github.com/benelot/pybullet-gym)
 - [dm_control](https://github.com/deepmind/dm_control)
 - [roboschool](https://github.com/openai/roboschool)
 - [robosuite](https://github.com/StanfordVL/robosuite)
 - [gym-gazebo](https://github.com/erlerobot/gym-gazebo)
 - [gym-gazebo2](https://github.com/AcutronicRobotics/gym-gazebo2/tree/9f523d9d275ce7c3d002e3978eeb1d64d81cfbce)
-- [osim-rl NIPS2018: AI for prosthetics](https://github.com/stanfordnmbl/osim-rl)
+- [cassie-rl](https://github.com/p-morais/cassie-rl) and [cassie-mujoco-sim](https://github.com/osudrl/cassie-mujoco-sim)
+- [osim-rl](https://github.com/stanfordnmbl/osim-rl)
 
 #### Multi-agent
 - [Pommerman playground](https://github.com/MultiAgentLearning/playground)
@@ -148,5 +151,5 @@ MuJoCo, Robotics, Toy text and many more environments.
 
 #### Other
 - [hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)
-- [XWorld](https://github.com/PaddlePaddle/XWorld)
+- [XWorld](https://github.com/PaddlePaddle/XWorld) 2D+3D
 - [highway-env](https://github.com/eleurent/highway-env)
