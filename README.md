@@ -115,6 +115,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [deepdrive](https://github.com/deepdrive/deepdrive)
 - [neural-mmo](https://github.com/openai/neural-mmo)
 - [habitat-sim](https://github.com/facebookresearch/habitat-sim) and [habitat-api](https://github.com/facebookresearch/habitat-api)
+- [angry-ai](https://github.com/mbaske/angry-ai)
 - [gym-miniworld](https://github.com/maximecb/gym-miniworld)
 - [gym-duckietown](https://github.com/duckietown/gym-duckietown)
 
