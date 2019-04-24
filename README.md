@@ -30,6 +30,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 - [reinforcement-learning-algorithms](https://github.com/TianhongDai/reinforcement-learning-algorithms)
 - [vel](https://github.com/MillionIntegrals/vel)
+- [rl_algorithms](https://github.com/medipixel/rl_algorithms)
 - [practical_RL](https://github.com/yandexdataschool/Practical_RL) but other frameworks too (TF, theano, lasagne)
 - [Udacity deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) 
 - [simoninithomas / Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)
@@ -130,7 +131,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 ![https://github.com/deepmind/pysc2](assets/pysc2-mini-games.gif)
 
 #### Control and robotics
-- [pybullet-gym](https://github.com/benelot/pybullet-gym)
+- [pybullet-gym](https://github.com/benelot/pybullet-gym) and official examples at [bullet3/examples/pybullet](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet) 
 - [dm_control](https://github.com/deepmind/dm_control)
 - [roboschool](https://github.com/openai/roboschool)
 - [robosuite](https://github.com/StanfordVL/robosuite)
@@ -138,6 +139,11 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [gym-gazebo2](https://github.com/AcutronicRobotics/gym-gazebo2/tree/9f523d9d275ce7c3d002e3978eeb1d64d81cfbce)
 - [cassie-rl](https://github.com/p-morais/cassie-rl) and [cassie-mujoco-sim](https://github.com/osudrl/cassie-mujoco-sim)
 - [osim-rl](https://github.com/stanfordnmbl/osim-rl)
+- [morse](https://github.com/morse-simulator/morse)
+- [graspit](https://github.com/graspit-simulator/graspit)
+- [argos3](https://github.com/ilpincy/argos3)
+- [webots](https://github.com/omichel/webots)
+- [autorally](https://github.com/autorally/autorally)
 
 #### Multi-agent
 - [Pommerman playground](https://github.com/MultiAgentLearning/playground)
