@@ -55,6 +55,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [tensorforce](https://github.com/tensorforce/tensorforce)
 - [trfl](https://github.com/deepmind/trfl)
 - [huskarl](https://github.com/danaugrs/huskarl)
+- [rl_algorithms](https://github.com/DanielTakeshi/rl_algorithms)
 - [Robotics-rl-srl](https://github.com/araffin/robotics-rl-srl)
 - [reinforcement-learning denny britz](https://github.com/dennybritz/reinforcement-learning)
 - [OpenAI Spinning Up](https://github.com/openai/spinningup)
@@ -91,6 +92,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [ml-agents](https://github.com/Unity-Technologies/ml-agents)
 - [PyGame-Learning-Environment](https://github.com/ntasfi/PyGame-Learning-Environment)
 - [MinAtar](https://github.com/kenjyoung/MinAtar)
+- [toybox](https://github.com/KDL-umass/Toybox)
 - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
 
 #### 3D Environments
