@@ -76,6 +76,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [keras-rl](https://github.com/keras-rl/keras-rl)
 - [kerlym](https://github.com/osh/kerlym)
 - [rl-agents](https://github.com/eleurent/rl-agents)
+- [simple_rl](https://github.com/david-abel/simple_rl)
 - [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [reinforcement-learing implementations](https://github.com/rlcode/reinforcement-learning)
 - [reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr)
@@ -145,6 +146,8 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [graspit](https://github.com/graspit-simulator/graspit)
 - [argos3](https://github.com/ilpincy/argos3)
 - [webots](https://github.com/omichel/webots)
+- [SenseAct](https://github.com/kindredresearch/SenseAct)
+- [multiworld](https://github.com/vitchyr/multiworld)
 - [autorally](https://github.com/autorally/autorally)
 
 #### Multi-agent
@@ -157,6 +160,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [MazeBase](https://github.com/facebook/MazeBase)
 - [gym-maze](https://github.com/MattChanTK/gym-maze)
 - [gym-sokoban](https://github.com/mpSchrader/gym-sokoban)
+- [mazelab](https://github.com/zuoxingdong/mazelab)
 - [GridUniverse](https://github.com/TheMTank/GridUniverse) Created by us
 - [gym-minigrid](https://github.com/maximecb/gym-minigrid/)
 
