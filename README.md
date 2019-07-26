@@ -38,6 +38,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
 - [ptan](https://github.com/Shmuma/ptan)
+- [rlpyt](https://github.com/astooke/rlpyt)
 - [pytorch-madrl](https://github.com/ChenglongChen/pytorch-madrl)
 - [torch_rl](https://github.com/jimimvp/torch_rl)
 - [Deep_RL_with_pytorch](https://github.com/sungyubkim/Deep_RL_with_pytorch)
@@ -99,6 +100,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [MinAtar](https://github.com/kenjyoung/MinAtar)
 - [toybox](https://github.com/KDL-umass/Toybox)
 - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
+- [Arena-BuildingToolkit](https://github.com/YuhangSong/Arena-BuildingToolkit)
 
 #### 3D Environments
 ![](assets/ULTIMATE-COLLAGE-GIF-3D-ENVS.gif)
@@ -155,6 +157,8 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [SenseAct](https://github.com/kindredresearch/SenseAct)
 - [multiworld](https://github.com/vitchyr/multiworld)
 - [autorally](https://github.com/autorally/autorally)
+- [FlightGoggles](https://github.com/mit-fast/FlightGoggles)
+- [v_rep](https://github.com/CoppeliaRobotics/v_rep) and [PyRep](https://github.com/stepjam/PyRep)
 
 #### Multi-agent
 - [Pommerman playground](https://github.com/MultiAgentLearning/playground)
