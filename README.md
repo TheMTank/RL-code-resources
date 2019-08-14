@@ -110,7 +110,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [ai2thor](https://github.com/allenai/ai2thor)
 - [MINOS](https://github.com/minosworld/minos)
 - [ViZDoom](https://github.com/mwydmuch/ViZDoom)
-- [DeepMind Lab](https://github.com/deepmind/lab)
+- [DeepMind Lab](https://github.com/deepmind/lab) and psychlab
 - [HoME](https://github.com/HoME-Platform/home-platform)
 - [Malmo](https://github.com/Microsoft/malmo), [marLo](https://github.com/crowdAI/marLo) and [gym-minecraft](https://github.com/tambetm/gym-minecraft)
 - [AirSim](https://github.com/Microsoft/AirSim)
@@ -176,6 +176,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 
 #### Other
 - [hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)
+- [bsuite](https://github.com/deepmind/bsuite)
 - [XWorld](https://github.com/PaddlePaddle/XWorld) 2D+3D
 - [highway-env](https://github.com/eleurent/highway-env)
 - [gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros) and [gym-super-mario](https://github.com/ppaquette/gym-super-mario)
