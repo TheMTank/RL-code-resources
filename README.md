@@ -178,6 +178,8 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)
 - [bsuite](https://github.com/deepmind/bsuite)
 - [XWorld](https://github.com/PaddlePaddle/XWorld) 2D+3D
+- [phyre](https://github.com/facebookresearch/phyre)
+- [flow](https://github.com/flow-project/flow)
 - [highway-env](https://github.com/eleurent/highway-env)
 - [gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros) and [gym-super-mario](https://github.com/ppaquette/gym-super-mario)
 - [Trading-Gym](https://github.com/thedimlebowski/Trading-Gym) and [gym-trading](https://github.com/hackthemarket/gym-trading)
