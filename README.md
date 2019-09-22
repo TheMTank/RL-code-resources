@@ -99,6 +99,8 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [PyGame-Learning-Environment](https://github.com/ntasfi/PyGame-Learning-Environment)
 - [MinAtar](https://github.com/kenjyoung/MinAtar)
 - [toybox](https://github.com/KDL-umass/Toybox)
+- [metaworld](https://github.com/rlworkgroup/metaworld)
+- [open_spiel](https://github.com/deepmind/open_spiel)
 - [MAMEToolkit](https://github.com/M-J-Murray/MAMEToolkit)
 - [Arena-BuildingToolkit](https://github.com/YuhangSong/Arena-BuildingToolkit)
 
@@ -168,6 +170,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [pycolab](https://github.com/deepmind/pycolab)
 - [escape_room](https://github.com/LARG/escape_room)
 - [MazeBase](https://github.com/facebook/MazeBase)
+- [spriteworld](https://github.com/deepmind/spriteworld)
 - [gym-maze](https://github.com/MattChanTK/gym-maze)
 - [gym-sokoban](https://github.com/mpSchrader/gym-sokoban)
 - [mazelab](https://github.com/zuoxingdong/mazelab)
