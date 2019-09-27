@@ -149,6 +149,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [dm_control](https://github.com/deepmind/dm_control)
 - [roboschool](https://github.com/openai/roboschool)
 - [robosuite](https://github.com/StanfordVL/robosuite)
+- [RLBench](https://github.com/stepjam/RLBench)
 - [gym-gazebo](https://github.com/erlerobot/gym-gazebo)
 - [gym-gazebo2](https://github.com/AcutronicRobotics/gym-gazebo2/tree/9f523d9d275ce7c3d002e3978eeb1d64d81cfbce)
 - [cassie-rl](https://github.com/p-morais/cassie-rl) and [cassie-mujoco-sim](https://github.com/osudrl/cassie-mujoco-sim)
