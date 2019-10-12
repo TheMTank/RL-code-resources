@@ -156,6 +156,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [osim-rl](https://github.com/stanfordnmbl/osim-rl)
 - [morse](https://github.com/morse-simulator/morse)
 - [graspit](https://github.com/graspit-simulator/graspit)
+- [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
 - [argos3](https://github.com/ilpincy/argos3)
 - [gym-saywer](https://github.com/rlworkgroup/gym-sawyer)
 - [webots](https://github.com/omichel/webots)
