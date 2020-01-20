@@ -38,6 +38,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL)
 - [ptan](https://github.com/Shmuma/ptan)
+- [autonomous-learning-library](https://github.com/cpnota/autonomous-learning-library)
 - [AGNES](https://github.com/rotinov/AGNES)
 - [rltime](https://github.com/opherlieber/rltime)
 - [rlpyt](https://github.com/astooke/rlpyt)
@@ -149,7 +150,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 ![https://github.com/deepmind/pysc2](assets/pysc2-mini-games.gif)
 
 #### Control and robotics
-- [pybullet-gym](https://github.com/benelot/pybullet-gym) and official examples at [bullet3/examples/pybullet](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet) 
+- [pybullet-gym](https://github.com/benelot/pybullet-gym) and official examples at [bullet3/examples/pybullet](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet) and [pybullet_robots](https://github.com/erwincoumans/pybullet_robots) 
 - [dm_control](https://github.com/deepmind/dm_control)
 - [roboschool](https://github.com/openai/roboschool)
 - [robosuite](https://github.com/StanfordVL/robosuite)
@@ -167,6 +168,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [gym-saywer](https://github.com/rlworkgroup/gym-sawyer)
 - [webots](https://github.com/omichel/webots)
 - [SenseAct](https://github.com/kindredresearch/SenseAct)
+- [offworld-gym](https://github.com/offworld-projects/offworld-gym)
 - [gym-electric-motor](https://github.com/upb-lea/gym-electric-motor)
 - [webots](https://github.com/cyberbotics/webots)
 - [gym-ignition](https://github.com/robotology/gym-ignition)
