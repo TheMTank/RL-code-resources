@@ -84,6 +84,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [reinforcejs](https://github.com/karpathy/reinforcejs)
 - [rlpy](https://github.com/rlpy/rlpy)
 - [keras-rl](https://github.com/keras-rl/keras-rl)
+- [prl](https://github.com/opium-sh/prl)
 - [kerlym](https://github.com/osh/kerlym)
 - [rl-agents](https://github.com/eleurent/rl-agents)
 - [simple_rl](https://github.com/david-abel/simple_rl)
@@ -165,6 +166,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [graspit](https://github.com/graspit-simulator/graspit)
 - [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
 - [argos3](https://github.com/ilpincy/argos3)
+- [rex-gym](https://github.com/nicrusso7/rex-gym)
 - [gym-saywer](https://github.com/rlworkgroup/gym-sawyer)
 - [webots](https://github.com/omichel/webots)
 - [SenseAct](https://github.com/kindredresearch/SenseAct)
@@ -201,6 +203,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [XWorld](https://github.com/PaddlePaddle/XWorld) 2D+3D
 - [phyre](https://github.com/facebookresearch/phyre)
 - [flow](https://github.com/flow-project/flow)
+- [lf2gym](https://github.com/elvisyjlin/lf2gym)
 - [safety-gym](https://github.com/openai/safety-gym)
 - [highway-env](https://github.com/eleurent/highway-env)
 - [gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros) and [gym-super-mario](https://github.com/ppaquette/gym-super-mario)
