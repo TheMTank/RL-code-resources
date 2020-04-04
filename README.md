@@ -136,6 +136,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [deepdrive](https://github.com/deepdrive/deepdrive)
 - [gym_torcs](https://github.com/ugo-nama-kun/gym_torcs)
 - [neural-mmo](https://github.com/openai/neural-mmo)
+- [SEVN](https://github.com/mweiss17/SEVN)
 - [habitat-sim](https://github.com/facebookresearch/habitat-sim) and [habitat-api](https://github.com/facebookresearch/habitat-api)
 - [angry-ai](https://github.com/mbaske/angry-ai)
 - [gym-miniworld](https://github.com/maximecb/gym-miniworld)
