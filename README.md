@@ -23,6 +23,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [torchrl](https://github.com/activatedgeek/torchrl)
 - [rlkit](https://github.com/vitchyr/rlkit)
 - [SLM-Lab](https://github.com/kengz/SLM-Lab)
+- [tianshou](https://github.com/thu-ml/tianshou)
 - [lagom](https://github.com/zuoxingdong/lagom)
 - [minimalRL](https://github.com/seungeunrho/minimalRL)
 - [DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
@@ -118,7 +119,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 
 - [CHALET](https://github.com/clic-lab/chalet)
 - [House3D](https://github.com/facebookresearch/house3d)
-- [ai2thor](https://github.com/allenai/ai2thor)
+- [ai2thor](https://github.com/allenai/ai2thor) and RoboTHOR
 - [MINOS](https://github.com/minosworld/minos)
 - [ViZDoom](https://github.com/mwydmuch/ViZDoom)
 - [DeepMind Lab](https://github.com/deepmind/lab) and psychlab
@@ -130,7 +131,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [holodeck](https://github.com/BYU-PCCL/holodeck)
 - [marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
 - [ToriLLe](https://github.com/Miffyli/ToriLLE)
-- [GibsonEnv](https://github.com/StanfordVL/GibsonEnv) and [GibsonEnvV2](https://github.com/StanfordVL/GibsonEnvV2)
+- [GibsonEnv](https://github.com/StanfordVL/GibsonEnv) and [GibsonEnvV2](https://github.com/StanfordVL/GibsonEnvV2) and [iGibson](https://github.com/StanfordVL/iGibson)
 - [obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env)
 - [DeepGTAV](https://github.com/aitorzip/DeepGTAV)
 - [deepdrive](https://github.com/deepdrive/deepdrive)
