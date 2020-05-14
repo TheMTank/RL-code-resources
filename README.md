@@ -171,6 +171,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [argos3](https://github.com/ilpincy/argos3)
 - [rex-gym](https://github.com/nicrusso7/rex-gym)
 - [jiminy](https://github.com/Wandercraft/jiminy)
+- [Stage](https://github.com/rtv/Stage)
 - [choreonoid](https://github.com/s-nakaoka/choreonoid)
 - [gym-saywer](https://github.com/rlworkgroup/gym-sawyer)
 - [webots](https://github.com/omichel/webots)
