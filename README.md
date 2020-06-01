@@ -60,6 +60,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [stable-baselines](https://github.com/hill-a/stable-baselines)
 - [coach](https://github.com/NervanaSystems/coach)
 - [yarll](https://github.com/arnomoonens/yarll)
+- [acme](https://github.com/deepmind/acme)
 - [dopamine](https://github.com/google/dopamine)
 - [tensorforce](https://github.com/tensorforce/tensorforce)
 - [trfl](https://github.com/deepmind/trfl)
