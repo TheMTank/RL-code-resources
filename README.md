@@ -135,6 +135,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [GibsonEnv](https://github.com/StanfordVL/GibsonEnv) and [GibsonEnvV2](https://github.com/StanfordVL/GibsonEnvV2) and [iGibson](https://github.com/StanfordVL/iGibson)
 - [obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env)
 - [DeepGTAV](https://github.com/aitorzip/DeepGTAV)
+- [virtualhome](https://github.com/xavierpuigf/virtualhome)
 - [deepdrive](https://github.com/deepdrive/deepdrive)
 - [gym_torcs](https://github.com/ugo-nama-kun/gym_torcs)
 - [neural-mmo](https://github.com/openai/neural-mmo)
