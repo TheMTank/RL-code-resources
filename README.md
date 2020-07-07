@@ -176,6 +176,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [Stage](https://github.com/rtv/Stage)
 - [choreonoid](https://github.com/s-nakaoka/choreonoid)
 - [Aslan](https://github.com/project-aslan/Aslan)
+- [robo-gym](https://github.com/jr-robotics/robo-gym)
 - [gym-saywer](https://github.com/rlworkgroup/gym-sawyer)
 - [spot_mini_mini](https://github.com/moribots/spot_mini_mini)
 - [webots](https://github.com/omichel/webots)
