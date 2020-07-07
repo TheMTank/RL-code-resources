@@ -175,6 +175,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [jiminy](https://github.com/Wandercraft/jiminy)
 - [Stage](https://github.com/rtv/Stage)
 - [choreonoid](https://github.com/s-nakaoka/choreonoid)
+- [Aslan](https://github.com/project-aslan/Aslan)
 - [gym-saywer](https://github.com/rlworkgroup/gym-sawyer)
 - [spot_mini_mini](https://github.com/moribots/spot_mini_mini)
 - [webots](https://github.com/omichel/webots)
