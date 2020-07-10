@@ -217,6 +217,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [flow](https://github.com/flow-project/flow)
 - [lf2gym](https://github.com/elvisyjlin/lf2gym)
 - [safety-gym](https://github.com/openai/safety-gym)
+- [assistive-vr-gym](https://github.com/Healthcare-Robotics/assistive-vr-gym)
 - [highway-env](https://github.com/eleurent/highway-env)
 - [gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros) and [gym-super-mario](https://github.com/ppaquette/gym-super-mario)
 - [Trading-Gym](https://github.com/thedimlebowski/Trading-Gym) and [gym-trading](https://github.com/hackthemarket/gym-trading)
