@@ -216,6 +216,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [XWorld](https://github.com/PaddlePaddle/XWorld) 2D+3D
 - [phyre](https://github.com/facebookresearch/phyre)
 - [tdw](https://github.com/threedworld-mit/tdw)
+- [megastep](https://github.com/andyljones/megastep)
 - [flow](https://github.com/flow-project/flow)
 - [lf2gym](https://github.com/elvisyjlin/lf2gym)
 - [safety-gym](https://github.com/openai/safety-gym)
