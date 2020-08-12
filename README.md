@@ -174,6 +174,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [graspit](https://github.com/graspit-simulator/graspit)
 - [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
 - [argos3](https://github.com/ilpincy/argos3)
+- [realworldrl_suite](https://github.com/google-research/realworldrl_suite)
 - [rex-gym](https://github.com/nicrusso7/rex-gym)
 - [jiminy](https://github.com/Wandercraft/jiminy)
 - [Stage](https://github.com/rtv/Stage)
