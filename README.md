@@ -158,6 +158,8 @@ MuJoCo, Robotics, Toy text and many more environments.
 ![https://github.com/deepmind/pysc2](assets/pysc2-mini-games.gif)
 
 #### Control and robotics
+Some of these aren't necessarily for RL but could be for motion planning and simulating complex robotics systems.
+
 - [pybullet-gym](https://github.com/benelot/pybullet-gym) and official examples at [bullet3/examples/pybullet](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet) and [pybullet_robots](https://github.com/erwincoumans/pybullet_robots) 
 - [dm_control](https://github.com/deepmind/dm_control)
 - [roboschool](https://github.com/openai/roboschool)
@@ -165,7 +167,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [RLBench](https://github.com/stepjam/RLBench)
 - [furniture](https://github.com/clvrai/furniture)
 - [SAPIEN-Release](https://github.com/haosulab/SAPIEN-Release)
-- [gym-gazebo](https://github.com/erlerobot/gym-gazebo)
+- [gym-gazebo](https://github.com/erlerobot/gym-gazebo) and [ign-gazebo](https://github.com/ignitionrobotics/ign-gazebo)
 - [gym-gazebo2](https://github.com/AcutronicRobotics/gym-gazebo2/tree/9f523d9d275ce7c3d002e3978eeb1d64d81cfbce)
 - [cassie-rl](https://github.com/p-morais/cassie-rl) and [cassie-mujoco-sim](https://github.com/osudrl/cassie-mujoco-sim)
 - [osim-rl](https://github.com/stanfordnmbl/osim-rl)
@@ -175,6 +177,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
 - [argos3](https://github.com/ilpincy/argos3)
 - [realworldrl_suite](https://github.com/google-research/realworldrl_suite)
+- [simulation-construction-set](https://github.com/ihmcrobotics/simulation-construction-set)
 - [rex-gym](https://github.com/nicrusso7/rex-gym)
 - [jiminy](https://github.com/Wandercraft/jiminy)
 - [Stage](https://github.com/rtv/Stage)
