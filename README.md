@@ -185,6 +185,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [Aslan](https://github.com/project-aslan/Aslan)
 - [robo-gym](https://github.com/jr-robotics/robo-gym)
 - [flightmare](https://github.com/uzh-rpg/flightmare)
+- [gym-pybullet-drones](https://github.com/JacopoPan/gym-pybullet-drones)
 - [gym-saywer](https://github.com/rlworkgroup/gym-sawyer)
 - [spot_mini_mini](https://github.com/moribots/spot_mini_mini)
 - [webots](https://github.com/omichel/webots)
