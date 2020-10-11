@@ -125,6 +125,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [ai2thor](https://github.com/allenai/ai2thor) and RoboTHOR
 - [MINOS](https://github.com/minosworld/minos)
 - [ViZDoom](https://github.com/mwydmuch/ViZDoom)
+- [diy-gym](https://github.com/ascentai/diy-gym)
 - [DeepMind Lab](https://github.com/deepmind/lab) and psychlab
 - [HoME](https://github.com/HoME-Platform/home-platform)
 - [Malmo](https://github.com/Microsoft/malmo), [marLo](https://github.com/crowdAI/marLo) and [gym-minecraft](https://github.com/tambetm/gym-minecraft)
