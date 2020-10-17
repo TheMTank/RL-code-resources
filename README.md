@@ -182,6 +182,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [simulation-construction-set](https://github.com/ihmcrobotics/simulation-construction-set)
 - [rex-gym](https://github.com/nicrusso7/rex-gym)
 - [jiminy](https://github.com/Wandercraft/jiminy)
+- [PackIt](https://github.com/princeton-vl/PackIt)
 - [Stage](https://github.com/rtv/Stage)
 - [choreonoid](https://github.com/s-nakaoka/choreonoid)
 - [Aslan](https://github.com/project-aslan/Aslan)
