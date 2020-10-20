@@ -228,6 +228,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [tdw](https://github.com/threedworld-mit/tdw)
 - [megastep](https://github.com/andyljones/megastep)
 - [nle](https://github.com/facebookresearch/nle)
+- [alfworld](https://github.com/alfworld/alfworld)
 - [rl_unplugged](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged)
 - [flow](https://github.com/flow-project/flow)
 - [lf2gym](https://github.com/elvisyjlin/lf2gym)
