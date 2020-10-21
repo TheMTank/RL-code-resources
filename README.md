@@ -23,6 +23,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [torchrl](https://github.com/activatedgeek/torchrl)
 - [rlkit](https://github.com/vitchyr/rlkit)
 - [SLM-Lab](https://github.com/kengz/SLM-Lab)
+- [pfrl](https://github.com/pfnet/pfrl)
 - [tianshou](https://github.com/thu-ml/tianshou)
 - [lagom](https://github.com/zuoxingdong/lagom)
 - [minimalRL](https://github.com/seungeunrho/minimalRL)
