@@ -168,6 +168,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [robosuite](https://github.com/StanfordVL/robosuite)
 - [RLBench](https://github.com/stepjam/RLBench)
 - [furniture](https://github.com/clvrai/furniture)
+- [roboverse](https://github.com/avisingh599/roboverse)
 - [SAPIEN-Release](https://github.com/haosulab/SAPIEN-Release)
 - [gym-gazebo](https://github.com/erlerobot/gym-gazebo) and [ign-gazebo](https://github.com/ignitionrobotics/ign-gazebo)
 - [gym-gazebo2](https://github.com/AcutronicRobotics/gym-gazebo2/tree/9f523d9d275ce7c3d002e3978eeb1d64d81cfbce)
