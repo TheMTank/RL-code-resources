@@ -188,6 +188,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [Stage](https://github.com/rtv/Stage)
 - [choreonoid](https://github.com/s-nakaoka/choreonoid)
 - [Aslan](https://github.com/project-aslan/Aslan)
+- [pyphysx](https://github.com/petrikvladimir/pyphysx)
 - [robo-gym](https://github.com/jr-robotics/robo-gym)
 - [flightmare](https://github.com/uzh-rpg/flightmare)
 - [gym-pybullet-drones](https://github.com/JacopoPan/gym-pybullet-drones)
