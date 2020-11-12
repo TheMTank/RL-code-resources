@@ -186,6 +186,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [jiminy](https://github.com/Wandercraft/jiminy)
 - [PackIt](https://github.com/princeton-vl/PackIt)
 - [Stage](https://github.com/rtv/Stage)
+- [robogym](https://github.com/openai/robogym)
 - [choreonoid](https://github.com/s-nakaoka/choreonoid)
 - [Aslan](https://github.com/project-aslan/Aslan)
 - [pyphysx](https://github.com/petrikvladimir/pyphysx)
@@ -222,6 +223,10 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [mazelab](https://github.com/zuoxingdong/mazelab)
 - [GridUniverse](https://github.com/TheMTank/GridUniverse) Created by us
 - [gym-minigrid](https://github.com/maximecb/gym-minigrid/)
+
+#### Non-RL based (e.g. vision)
+
+- Hypersim
 
 #### Other
 - [hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)
