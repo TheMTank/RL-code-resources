@@ -238,6 +238,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [nle](https://github.com/facebookresearch/nle)
 - [alfworld](https://github.com/alfworld/alfworld)
 - [ElderSim](https://ai4robot.github.io/ElderSim/)
+- [SoftGym](https://github.com/Xingyu-Lin/softgym)
 - [gym-cooking](https://github.com/rosewang2008/gym-cooking)
 - [rl_unplugged](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged)
 - [flow](https://github.com/flow-project/flow)
