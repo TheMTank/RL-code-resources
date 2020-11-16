@@ -217,6 +217,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [pycolab](https://github.com/deepmind/pycolab)
 - [escape_room](https://github.com/LARG/escape_room)
 - [MazeBase](https://github.com/facebook/MazeBase)
+- [lab2d](https://github.com/deepmind/lab2d)
 - [spriteworld](https://github.com/deepmind/spriteworld)
 - [gym-maze](https://github.com/MattChanTK/gym-maze)
 - [gym-sokoban](https://github.com/mpSchrader/gym-sokoban)
