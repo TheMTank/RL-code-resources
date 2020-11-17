@@ -227,7 +227,8 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 
 #### Non-RL based (e.g. vision)
 
-- Hypersim
+- [Hypersim](https://github.com/apple/ml-hypersim)
+- [BlenderProc](https://github.com/DLR-RM/BlenderProc)
 
 #### Other
 - [hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)
