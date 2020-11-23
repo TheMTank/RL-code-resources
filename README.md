@@ -237,6 +237,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [XWorld](https://github.com/PaddlePaddle/XWorld) 2D+3D
 - [phyre](https://github.com/facebookresearch/phyre)
 - [tdw](https://github.com/threedworld-mit/tdw)
+- [gym-racecar](https://github.com/alexliniger/gym-racecar)
 - [megastep](https://github.com/andyljones/megastep)
 - [nle](https://github.com/facebookresearch/nle)
 - [alfworld](https://github.com/alfworld/alfworld)
