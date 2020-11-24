@@ -241,6 +241,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [gym-racecar](https://github.com/alexliniger/gym-racecar)
 - [megastep](https://github.com/andyljones/megastep)
 - [nle](https://github.com/facebookresearch/nle)
+- [magical](https://github.com/qxcv/magical)
 - [alfworld](https://github.com/alfworld/alfworld)
 - [ElderSim](https://ai4robot.github.io/ElderSim/)
 - [SoftGym](https://github.com/Xingyu-Lin/softgym)
