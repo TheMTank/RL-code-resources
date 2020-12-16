@@ -181,6 +181,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [graspit](https://github.com/graspit-simulator/graspit)
 - [flatland](https://github.com/avidbots/flatland)
 - [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
+- [ravens](https://github.com/google-research/ravens)
 - [argos3](https://github.com/ilpincy/argos3)
 - [realworldrl_suite](https://github.com/google-research/realworldrl_suite)
 - [simulation-construction-set](https://github.com/ihmcrobotics/simulation-construction-set)
