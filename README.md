@@ -53,7 +53,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [spinning-up-basic](https://github.com/Kaixhin/spinning-up-basic) PyTorch version of OpenAI's spinning up
 - [firedup spinning up PyTorch](https://github.com/kashif/firedup)
 - [humblerl](https://github.com/piojanu/humblerl)
-- [Horizon](https://github.com/facebookresearch/Horizon)
+- [ReAgent](https://github.com/facebookresearch/ReAgent) renamed from Horizon
 
 #### TensorFlow
 
