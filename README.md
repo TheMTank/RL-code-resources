@@ -92,6 +92,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [prl](https://github.com/opium-sh/prl)
 - [kerlym](https://github.com/osh/kerlym)
 - [rlax](https://github.com/deepmind/rlax)
+- [rlstructures](https://github.com/facebookresearch/rlstructures)
 - [rl-agents](https://github.com/eleurent/rl-agents)
 - [simple_rl](https://github.com/david-abel/simple_rl)
 - [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
