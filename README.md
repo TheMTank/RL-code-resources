@@ -150,6 +150,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [angry-ai](https://github.com/mbaske/angry-ai)
 - [gym-miniworld](https://github.com/maximecb/gym-miniworld)
 - [gym-duckietown](https://github.com/duckietown/gym-duckietown)
+- [dm_alchemy](https://github.com/deepmind/dm_alchemy)
 
 ![https://github.com/allenai/ai2thor](assets/ai2thor-comparison-to-other-frameworks.jpeg)
 
