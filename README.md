@@ -27,6 +27,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [tianshou](https://github.com/thu-ml/tianshou)
 - [lagom](https://github.com/zuoxingdong/lagom)
 - [minimalRL](https://github.com/seungeunrho/minimalRL)
+- [mbrl-lib](https://github.com/facebookresearch/mbrl-lib)
 - [DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
 - [ikostrikov's a3c, a2c, ppo, acktr, trpo](https://github.com/ikostrikov)
 - [higgsfield's RL Adventure 1 and 2: DQN and Policy Gradient variations](https://github.com/higgsfield)
