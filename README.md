@@ -126,6 +126,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [CHALET](https://github.com/clic-lab/chalet)
 - [House3D](https://github.com/facebookresearch/house3d)
 - [ai2thor](https://github.com/allenai/ai2thor) and RoboTHOR
+- [manipulathor](https://github.com/allenai/manipulathor)
 - [MINOS](https://github.com/minosworld/minos)
 - [ViZDoom](https://github.com/mwydmuch/ViZDoom)
 - [diy-gym](https://github.com/ascentai/diy-gym)
