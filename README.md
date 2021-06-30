@@ -184,6 +184,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [morse](https://github.com/morse-simulator/morse)
 - [graspit](https://github.com/graspit-simulator/graspit)
 - [flatland](https://github.com/avidbots/flatland)
+- [brax](https://github.com/google/brax)
 - [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
 - [ravens](https://github.com/google-research/ravens)
 - [argos3](https://github.com/ilpincy/argos3)
