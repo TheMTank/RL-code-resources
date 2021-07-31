@@ -46,6 +46,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [rltime](https://github.com/opherlieber/rltime)
 - [rlpyt](https://github.com/astooke/rlpyt)
 - [cherry](https://github.com/learnables/cherry)
+- [yarr](https://github.com/stepjam/YARR)
 - [pytorch-madrl](https://github.com/ChenglongChen/pytorch-madrl)
 - [torch_rl](https://github.com/jimimvp/torch_rl)
 - [Deep_RL_with_pytorch](https://github.com/sungyubkim/Deep_RL_with_pytorch)
