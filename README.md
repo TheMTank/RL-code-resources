@@ -249,6 +249,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [tdw](https://github.com/threedworld-mit/tdw)
 - [gym-racecar](https://github.com/alexliniger/gym-racecar)
 - [sumo-rl](https://github.com/LucasAlegre/sumo-rl)
+- [Rocket_Lander_Gym](https://github.com/sdsubhajitdas/Rocket_Lander_Gym)
 - [megastep](https://github.com/andyljones/megastep)
 - [nle](https://github.com/facebookresearch/nle)
 - [magical](https://github.com/qxcv/magical)
