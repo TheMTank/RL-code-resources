@@ -86,6 +86,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 #### Other
 
 - [rllab](https://github.com/rll/rllab)
+- [garage](https://github.com/rlworkgroup/garage)
 - [reinforcejs](https://github.com/karpathy/reinforcejs)
 - [rlpy](https://github.com/rlpy/rlpy)
 - [keras-rl](https://github.com/keras-rl/keras-rl)
