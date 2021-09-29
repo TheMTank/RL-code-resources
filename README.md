@@ -175,6 +175,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [roboschool](https://github.com/openai/roboschool)
 - [robosuite](https://github.com/StanfordVL/robosuite)
 - [RLBench](https://github.com/stepjam/RLBench)
+- [leibnizgym](https://github.com/pairlab/leibnizgym)
 - [furniture](https://github.com/clvrai/furniture)
 - [roboverse](https://github.com/avisingh599/roboverse)
 - [SAPIEN-Release](https://github.com/haosulab/SAPIEN-Release)
