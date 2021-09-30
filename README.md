@@ -250,6 +250,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [phyre](https://github.com/facebookresearch/phyre)
 - [tdw](https://github.com/threedworld-mit/tdw)
 - [gym-racecar](https://github.com/alexliniger/gym-racecar)
+- [CompilerGym](https://github.com/facebookresearch/CompilerGym)
 - [sumo-rl](https://github.com/LucasAlegre/sumo-rl)
 - [Rocket_Lander_Gym](https://github.com/sdsubhajitdas/Rocket_Lander_Gym)
 - [megastep](https://github.com/andyljones/megastep)
