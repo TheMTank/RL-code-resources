@@ -189,6 +189,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [graspit](https://github.com/graspit-simulator/graspit)
 - [flatland](https://github.com/avidbots/flatland)
 - [brax](https://github.com/google/brax)
+- [isaac-gym](https://developer.nvidia.com/isaac-gym) not GitHub but I'll make an exception
 - [panda-gym](https://github.com/qgallouedec/panda-gym)
 - [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
 - [ravens](https://github.com/google-research/ravens)
