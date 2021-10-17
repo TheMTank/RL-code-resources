@@ -94,6 +94,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [tonic](https://github.com/fabiopardo/tonic)
 - [prl](https://github.com/opium-sh/prl)
 - [kerlym](https://github.com/osh/kerlym)
+- [godot_rl_agents](https://github.com/edbeeching/godot_rl_agents)
 - [rlax](https://github.com/deepmind/rlax)
 - [rlstructures](https://github.com/facebookresearch/rlstructures)
 - [rl-agents](https://github.com/eleurent/rl-agents)
