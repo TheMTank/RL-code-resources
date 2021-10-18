@@ -182,6 +182,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [roboverse](https://github.com/avisingh599/roboverse)
 - [SAPIEN-Release](https://github.com/haosulab/SAPIEN-Release)
 - [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
+- [mujoco](https://github.com/deepmind/mujoco)
 - [gym-gazebo](https://github.com/erlerobot/gym-gazebo) and [ign-gazebo](https://github.com/ignitionrobotics/ign-gazebo)
 - [gym-gazebo2](https://github.com/AcutronicRobotics/gym-gazebo2/tree/9f523d9d275ce7c3d002e3978eeb1d64d81cfbce)
 - [cassie-rl](https://github.com/p-morais/cassie-rl) and [cassie-mujoco-sim](https://github.com/osudrl/cassie-mujoco-sim)
