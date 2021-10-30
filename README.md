@@ -46,6 +46,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [AGNES](https://github.com/rotinov/AGNES)
 - [rltime](https://github.com/opherlieber/rltime)
 - [rlpyt](https://github.com/astooke/rlpyt)
+- [cleanrl](https://github.com/vwxyzjn/cleanrl)
 - [cherry](https://github.com/learnables/cherry)
 - [yarr](https://github.com/stepjam/YARR)
 - [pytorch-madrl](https://github.com/ChenglongChen/pytorch-madrl)
