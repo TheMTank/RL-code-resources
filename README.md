@@ -195,6 +195,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [brax](https://github.com/google/brax)
 - [isaac-gym](https://developer.nvidia.com/isaac-gym) not GitHub but I'll make an exception
 - [panda-gym](https://github.com/qgallouedec/panda-gym)
+- [tactile_gym](https://github.com/ac-93/tactile_gym)
 - [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
 - [ravens](https://github.com/google-research/ravens)
 - [argos3](https://github.com/ilpincy/argos3)
