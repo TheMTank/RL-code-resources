@@ -146,7 +146,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [marathon-envs](https://github.com/Unity-Technologies/marathon-envs)
 - [ToriLLe](https://github.com/Miffyli/ToriLLE)
 - [GibsonEnv](https://github.com/StanfordVL/GibsonEnv) and [GibsonEnvV2](https://github.com/StanfordVL/GibsonEnvV2) and [iGibson](https://github.com/StanfordVL/iGibson)
-- [obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env)
+- [obstacle-tower-env](https://github.com/Unity-Technologies/obstacle-tower-env)il
 - [DeepGTAV](https://github.com/aitorzip/DeepGTAV)
 - [virtualhome](https://github.com/xavierpuigf/virtualhome)
 - [deepdrive](https://github.com/deepdrive/deepdrive)
@@ -196,6 +196,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [isaac-gym](https://developer.nvidia.com/isaac-gym) not GitHub but I'll make an exception
 - [panda-gym](https://github.com/qgallouedec/panda-gym)
 - [tactile_gym](https://github.com/ac-93/tactile_gym)
+- [tacto](https://github.com/facebookresearch/tacto)
 - [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
 - [ravens](https://github.com/google-research/ravens)
 - [argos3](https://github.com/ilpincy/argos3)
