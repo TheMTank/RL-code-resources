@@ -106,6 +106,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr)
 - [PARL](https://github.com/PaddlePaddle/PARL)
 - [DeeR](https://github.com/VinF/deer)
+- [sinergym](https://github.com/jajimer/sinergym)
 
 # RL Environments
 
