@@ -192,6 +192,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [raisimLib](https://github.com/leggedrobotics/raisimLib)
 - [morse](https://github.com/morse-simulator/morse)
 - [graspit](https://github.com/graspit-simulator/graspit)
+- [CausalWorld](https://github.com/rr-learning/CausalWorld)
 - [flatland](https://github.com/avidbots/flatland)
 - [brax](https://github.com/google/brax)
 - [isaac-gym](https://developer.nvidia.com/isaac-gym) not GitHub but I'll make an exception
