@@ -255,6 +255,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 #### Other
 - [hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)
 - [bsuite](https://github.com/deepmind/bsuite)
+- [minihack](https://github.com/facebookresearch/minihack)
 - [XWorld](https://github.com/PaddlePaddle/XWorld) 2D+3D
 - [phyre](https://github.com/facebookresearch/phyre)
 - [tdw](https://github.com/threedworld-mit/tdw)
