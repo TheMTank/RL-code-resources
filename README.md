@@ -204,6 +204,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [ravens](https://github.com/google-research/ravens)
 - [argos3](https://github.com/ilpincy/argos3)
 - [snakebot-gym](https://github.com/williamcorsel/snakebot-gym)
+- [dedo](https://github.com/contactrika/dedo)
 - [realworldrl_suite](https://github.com/google-research/realworldrl_suite)
 - [simulation-construction-set](https://github.com/ihmcrobotics/simulation-construction-set)
 - [rex-gym](https://github.com/nicrusso7/rex-gym)
