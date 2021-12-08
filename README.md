@@ -193,6 +193,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [cassie-rl](https://github.com/p-morais/cassie-rl) and [cassie-mujoco-sim](https://github.com/osudrl/cassie-mujoco-sim)
 - [osim-rl](https://github.com/stanfordnmbl/osim-rl)
 - [raisimLib](https://github.com/leggedrobotics/raisimLib)
+- [SimuRLacra](https://github.com/famura/SimuRLacra)
 - [morse](https://github.com/morse-simulator/morse)
 - [graspit](https://github.com/graspit-simulator/graspit)
 - [CausalWorld](https://github.com/rr-learning/CausalWorld)
