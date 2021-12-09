@@ -273,6 +273,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [Rocket_Lander_Gym](https://github.com/sdsubhajitdas/Rocket_Lander_Gym)
 - [megastep](https://github.com/andyljones/megastep)
 - [nle](https://github.com/facebookresearch/nle)
+- [balloon-learning-environment](https://github.com/google/balloon-learning-environment)
 - [magical](https://github.com/qxcv/magical)
 - [alfworld](https://github.com/alfworld/alfworld)
 - [ElderSim](https://ai4robot.github.io/ElderSim/)
