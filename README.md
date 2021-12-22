@@ -28,6 +28,7 @@ algorithm implementations. Also, the distinction between framework and "collecti
 - [tianshou](https://github.com/thu-ml/tianshou)
 - [lagom](https://github.com/zuoxingdong/lagom)
 - [minimalRL](https://github.com/seungeunrho/minimalRL)
+- [RLHive](https://github.com/chandar-lab/RLHive)
 - [mbrl-lib](https://github.com/facebookresearch/mbrl-lib)
 - [DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
 - [ikostrikov's a3c, a2c, ppo, acktr, trpo](https://github.com/ikostrikov)
@@ -242,6 +243,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 #### Multi-agent
 - [Pommerman playground](https://github.com/MultiAgentLearning/playground)
 - [MAgent](https://github.com/geek-ai/MAgent)
+- [PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 
 #### GridWorlds
 - [pycolab](https://github.com/deepmind/pycolab)
