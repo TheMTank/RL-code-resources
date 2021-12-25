@@ -172,6 +172,7 @@ MuJoCo, Robotics, Toy text and many more environments.
 - [TorchCraft](https://github.com/TorchCraft/TorchCraft), [gym-starcraft](https://github.com/alibaba/gym-starcraft) and [TorchCraftAI](https://github.com/TorchCraft/TorchCraftAI)
 - [deep-rts](https://github.com/cair/deep-rts)
 - [ELF](https://github.com/facebookresearch/ELF)
+- [gym-microrts](https://github.com/vwxyzjn/gym-microrts)
 
 ![https://github.com/deepmind/pysc2](assets/pysc2-mini-games.gif)
 
