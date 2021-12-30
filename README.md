@@ -206,6 +206,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [tactile_gym](https://github.com/ac-93/tactile_gym)
 - [tacto](https://github.com/facebookresearch/tacto)
 - [ostrichrl](https://github.com/vittorione94/ostrichrl) 
+- [nimblephysics](https://github.com/nimblephysics/nimblephysics)
 - [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
 - [ravens](https://github.com/google-research/ravens)
 - [argos3](https://github.com/ilpincy/argos3)
