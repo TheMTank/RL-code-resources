@@ -202,7 +202,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [CausalWorld](https://github.com/rr-learning/CausalWorld)
 - [flatland](https://github.com/avidbots/flatland)
 - [brax](https://github.com/google/brax)
-- [isaac-gym](https://developer.nvidia.com/isaac-gym) not GitHub but I'll make an exception
+- [isaac-gym](https://developer.nvidia.com/isaac-gym) not GitHub but I'll make an exception. https://github.com/NVIDIA-Omniverse/IsaacGymEnvs
 - [panda-gym](https://github.com/qgallouedec/panda-gym)
 - [tactile_gym](https://github.com/ac-93/tactile_gym)
 - [tacto](https://github.com/facebookresearch/tacto)
