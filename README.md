@@ -201,6 +201,7 @@ Some of these aren't necessarily for RL but could be for motion planning and sim
 - [graspit](https://github.com/graspit-simulator/graspit)
 - [CausalWorld](https://github.com/rr-learning/CausalWorld)
 - [flatland](https://github.com/avidbots/flatland)
+- [gym-fetch](https://github.com/geyang/gym-fetch)
 - [brax](https://github.com/google/brax)
 - [isaac-gym](https://developer.nvidia.com/isaac-gym) not GitHub but I'll make an exception. https://github.com/NVIDIA-Omniverse/IsaacGymEnvs
 - [panda-gym](https://github.com/qgallouedec/panda-gym)
